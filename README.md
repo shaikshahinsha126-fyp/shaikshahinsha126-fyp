@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi 👋, I'm Shahinsha
 
-<!--
-**shaikshahinsha126-fyp/shaikshahinsha126-fyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE-AIML Student
 
-Here are some ideas to get you started:
+Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- SQL
+- Data Analysis
+
+My Goals
+
+- Improve my programming skills
+- Build real-world projects
+- Solve coding problems
+- Prepare for internships and placements
+  
+Projects
+
+- Python Beginner Projects — Coming Soon
+- DSA Practice — Coming Soon
+- Data Analysis Projects — Coming Soon
+
+Currently Working On
+
+- Learning Python from the basics
+- Building my GitHub portfolio
+- Practicing problem solving
+
+⭐ Thanks for visiting my profile!
